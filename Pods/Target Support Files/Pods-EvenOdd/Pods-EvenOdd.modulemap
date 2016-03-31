@@ -1,0 +1,6 @@
+framework module Pods_EvenOdd {
+  umbrella header "Pods-EvenOdd-umbrella.h"
+
+  export *
+  module * { export * }
+}
